@@ -1,0 +1,22 @@
+
+
+.flex-box-rps{
+    display:flex;
+   // border:1px solid black;
+    padding:10px;
+    flex-wrap:wrap;
+  //  flex-direction:row;
+    //justify-center:center;
+    padding-left:400px;    
+
+}
+
+
+/*.flex-box-rps:hover{
+  //  box-shadow:0px 10px 50px rgba(99, 45, 10, 0.7);
+   
+}
+.flex-box-rps div{
+    padding:50px;
+}
+*/
